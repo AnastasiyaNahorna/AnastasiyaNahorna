@@ -23,7 +23,7 @@ I'm well-versed in a range of QA methodologies, tools, and technologies, includi
 
 ## 📫 Let's Connect
 
-I'm always open to connecting with fellow developers, QA enthusiasts, and anyone interested in quality engineering. Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/anastasiya-nahorna).
+I'm always open to connecting with fellow developers, QA enthusiasts, and anyone interested in quality engineering. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/anastasiya-nahorna).
 
 ## 🚀 Fun Facts
 
