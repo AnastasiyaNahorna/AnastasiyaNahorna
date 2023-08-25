@@ -1,4 +1,4 @@
-# Hi there, I'm Nastia 👋
+# Hi there, I'm Anastasiya 👋
 
 Welcome to my GitHub profile! I'm a passionate QA engineer with a keen eye for detail and a drive to ensure top-notch software quality.
 
@@ -28,6 +28,6 @@ I'm always open to connecting with fellow developers, QA enthusiasts, and anyone
 ## 🚀 Fun Facts
 
 - When I'm not busy testing software, you can find me exploring new hiking trails.
-- An interesting personal tidbit about me is that I'm an avid board game enthusiast who loves orchestrating strategic victories on the game board and weaving harmonious melodies on the synthesizer keys when I'm not immersed in the world of software testing.
+- An interesting tidbit about me: I'm a board game enthusiast and a synthesizer player, finding delight in both strategic moves and harmonious tunes.
 
 Thanks for stopping by and checking out my profile! Feel free to explore my repositories and projects. If you have any questions or just want to say hi, don't hesitate to get in touch.
